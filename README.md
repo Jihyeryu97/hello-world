@@ -9,6 +9,7 @@ This is my Github page [Link](https://github.com/Jihyeryu97)
 __This will also be bold!__  
 
 What should we eat?
+
  Num | Menu 
  --- | ---
  1 | Chinese food
