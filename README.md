@@ -10,7 +10,7 @@ __This will also be bold!__
 
 What should we eat?
 | Num | Menu |
-|-------|-------|
+|------- | -------|
 |1 | Chinese food|
 |2 | Japanese food|
 |3 | Italian food|
