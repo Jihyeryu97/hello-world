@@ -9,11 +9,11 @@ This is my Github page [Link](https://github.com/Jihyeryu97)
 __This will also be bold!__  
 
 What should we eat?
-| Num | Menu |
-|:------- | -------:|
-|1 | Chinese food|
-|2 | Japanese food|
-|3 | Italian food|
+ Num | Menu 
+ --- | ---
+ 1 | Chinese food
+ 2 | Japanese food
+ 3 | Italian food
 
 I like this Picture.   
 ![Picture](claudemonet.jpg)  
